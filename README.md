@@ -1,4 +1,4 @@
 # javaSamples
 
-##SSM
+## SSM
 Create SSM project without web.xml
