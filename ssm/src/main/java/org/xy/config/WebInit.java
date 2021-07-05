@@ -1,4 +1,4 @@
-package org.javaboy.config;
+package org.xy.config;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.web.WebApplicationInitializer;
